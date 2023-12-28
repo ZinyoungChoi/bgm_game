@@ -1,5 +1,6 @@
 {
   "name": "bgm_game",
+  "homepage": "https://zinyoungchoi.github.io/bgm_game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
